@@ -1,6 +1,6 @@
 node{
   def Namespace = "pkapp"
-  def ImageName = "maheshkharwadkar/mkimage"
+  def ImageName = "hello/myimage"
   def Creds	= "dockerhub"
   def imageTag = "1.0"
   try{
